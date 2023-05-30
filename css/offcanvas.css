@@ -1,0 +1,40 @@
+.offcanvas h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.offcanvas .email{
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.offcanvas a{
+    text-decoration: none;
+    color: black;
+}
+
+.offcanvas p{
+    margin-bottom: 1em;
+    font-size: 1.3em;
+}
+
+.offcanvas-header {
+    background-color: rgba(142, 212, 236, 0.285);
+}
+
+/* .offcanvas .btn-close{
+    background-color: yellow;
+} */
+
+.offcanvas-body .btn{
+    width: 50%;
+    padding: .6em;
+    font-weight: bold;
+    float: right;
+    color: whitesmoke;
+}
+
+.offcanvas-body .bal{
+    display: flex;
+    justify-content: space-between;
+}
